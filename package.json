@@ -1,0 +1,14 @@
+{
+  "name": "uber-auth-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abnerfs/uber-auth-firebase",
+  "author": "AbNeR <abnerfs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "node-fetch": "^2.0.0",
+    "querystring": "^0.2.0"
+  }
+}
